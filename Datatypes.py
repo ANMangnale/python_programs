@@ -2,7 +2,9 @@
 #Python Strings are arrays of bytes representing Unicode characters. In Python, there is no character data type Python, a character is a string of length one. It is represented by str class.
 
 #Strings in Python can be created using single quotes, double quotes or even triple quotes. We can access individual characters of a String using index.
-#change line
+#change
+#Change 1
+#Change 2
 s = 'Welcoqme to the geeks world'
 print(s)
 print(type(s))
